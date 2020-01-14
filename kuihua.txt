@@ -4,3 +4,4 @@ tudi:yaoliannilian.
 shifu:shenme?
 dongfang:必先自宫
 shifu:已经升级为ssh
+shifu:ssh again
